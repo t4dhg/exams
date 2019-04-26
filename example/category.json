@@ -1,0 +1,26 @@
+[{
+  "exam": "hexaco-100",
+  "name": "honesty-humility"
+  "title": [{
+    "en": "Honesty and Humility",
+    "es": "Honestidad y Humildad"
+  }],
+  "subcategories": [{
+    "name": "sincerity",
+    "title": [{
+      "en": "Sincerity",
+      "es": "Sinceridad"
+    }],
+    "average": 2.45
+  }, {
+    "name": "fairness",
+    "title": [{
+      "en": "Fairness",
+      "es": "Rectitud"
+    }],
+    "average": 2.15
+  }],
+  "average": 3.45
+}, {
+  ...
+}]
